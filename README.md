@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel or @cngzlsh
-- 👀 I’m interested in ... Neuroscience, and machine learning models of brain functions
-- 🌱 I’m currently learning ... MSc Machine Learning, BSc Statistics and Neuroscience in University College London (UCL)
+- 👀 I’m interested in ... theoretical neuroscience and machine learning
+- 🌱 I’m currently studying ... MSc Machine Learning, BSc Statistics and Neuroscience in University College London (UCL)
 - 📫 How to reach me ... cngzlsh@hotmail.com
 
 <!---
